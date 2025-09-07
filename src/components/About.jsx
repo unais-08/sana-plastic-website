@@ -1,4 +1,3 @@
-import React from "react";
 import { Store, CheckCircle, Users, Truck } from "lucide-react";
 import "./About.css";
 
